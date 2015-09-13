@@ -1,6 +1,12 @@
-## Exploratory Data Analysis Course Project 1
+# Exploratory Data Analysis Course Project 1
 
-# Federico Viscioletti
+## Federico Viscioletti 
+
+### Goal
+
+The main goaal was to examine how household energy usage varies over a 2-day period in February 2007 (2007/02/01 - 2007/02/02), creating four charts. 
+
+### The Data
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
