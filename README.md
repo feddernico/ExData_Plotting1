@@ -1,6 +1,6 @@
-# Exploratory Data Analysis Course Project 1
+# Exploratory Data Analysis 
 
-## Federico Viscioletti 
+## Course Project 1 - Federico Viscioletti 
 
 ### Goal
 
