@@ -40,3 +40,11 @@ web site</a>:
 <li><b>Sub_metering_2</b>: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light. </li>
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
+
+### Usage
+
+ 1. Set the current R working directory to the project folder
+ 2. Execute the read_data.R file to download and load the analysis dataset
+ 3. Execute one of the plotting script to create a plot and save to your working directory
+
+Due to specific image size requirements of the new plots, they will look slightly different than the originals. 
